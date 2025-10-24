@@ -1,3 +1,4 @@
+<script>
 document.addEventListener('DOMContentLoaded', () => {
     const currentMonthYearHeader = document.getElementById('current-month-year');
     const calendarDaysGrid = document.getElementById('calendar-days');
@@ -100,3 +101,4 @@ document.addEventListener('DOMContentLoaded', () => {
     renderCalendar();
     renderUpcomingTasks();
 });
+</script>
