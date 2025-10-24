@@ -1,3 +1,4 @@
+<style>
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-color: #f4f7f9;
@@ -140,3 +141,4 @@ header {
     border-radius: 5px;
     cursor: pointer;
 }
+</style>
